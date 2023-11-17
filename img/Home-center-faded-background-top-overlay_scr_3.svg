@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg enable-background="new 0 0 4028 1196.9" version="1.1" viewBox="0 0 4028 1196.9" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#142A66;}
+	.st2{fill:#E6E6E6;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{fill:url(#SVGID_3_);}
+	.st5{filter:url(#Adobe_OpacityMaskFilter);}
+	.st6{opacity:0.3;mask:url(#SVGID_4_);}
+</style>
+<switch>
+	<foreignObject width="1" height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+	</foreignObject>
+	<g>
+		<path class="st0" d="M4028,0v1017.8c-35.8,22.8-314.4,191.6-624.1,178.4c-1111-47.5-2064-1007.9-2639-1113.2    C358,8.3,36.2,216.6,0,240.8V0H4028z"/>
+	</g>
+</switch>
+</svg>
