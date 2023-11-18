@@ -26,6 +26,23 @@ hamburger.addEventListener('click', function(){
 
 window.addEventListener('scroll', reveal); function reveal(){ var reveals = document.querySelectorAll('.reveal'); for(var i = 0; i < reveals.length; i++){ var windowheight = window.innerHeight; var revealtop = reveals[i].getBoundingClientRect().top; var revealpoint = 150; if(revealtop < windowheight - revealpoint){ reveals[i].classList.add('active'); } else{ reveals[i].classList.remove('active'); } } } 
 
+window.addEventListener('scroll', reveal_2);
+ function reveal_2(){ 
+  var reveals = document.querySelectorAll('.reveal_2');
+  var landing_page_container = document.querySelectorAll('section');
+
+  for(var i = 0; i < reveals.length; i++){ 
+    var windowheight = window.innerHeight; 
+    var revealtop = landing_page_container[i].getBoundingClientRect().top; 
+    var revealpoint = 150; if(revealtop < windowheight - revealpoint){ 
+      reveals[i].classList.add('active');
+    } else{ reveals[i].classList.remove('active');
+   } 
+  } 
+} 
+
+
+
 window.addEventListener('scroll', reveal_slow); 
 function reveal_slow(){ 
     var reveal_slow = document.querySelectorAll('.reveal_slow');
